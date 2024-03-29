@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: ECG Lab = Experimental + Computational Genomics # the website title (if blank, full name will be used instead)
-first_name: Chun Shen
+title: blank # the website title (if blank, full name will be used instead)
+first_name: ECG
 middle_name: 
-last_name: LIM
+last_name: Lab
 email: chunshen.lim[at]otago.ac.nz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
