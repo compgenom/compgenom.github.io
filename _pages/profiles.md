@@ -23,4 +23,11 @@ profiles:
     more_info: >
       <p>Gabrielle Chieng</p>
       <p>PhD Candidate</p>
+  - align: left
+    image: thomas.png
+    content:
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Thomas Ware</p>
+      <p>PhD Candidate</p>
 ---
