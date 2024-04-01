@@ -14,8 +14,8 @@ profiles:
     content:
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Chun Shen Lim</p>
-      <a href='https://compgenom.github.io/cv/'>Group Leader</a>
+      <a href='https://compgenom.github.io/cv/'>Chun Shen Lim</a>
+      <p>Group Leader</p>
   - align: left
     image: gabrielle.png
     content:
