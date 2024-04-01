@@ -45,7 +45,7 @@
       "courses": ["Roles of Introns"]
     }
   ],
-  "research fields": [
+  "interests": [
     {
       "name": "Bioinformatics and Computational Biology",
       "icon": "fa-solid fa-tag",
@@ -57,7 +57,7 @@
       "keywords": ["Reporter", "Amber Suppression", "Droplet Digital PCR"]
     }
   ],
-  "funding": [
+  "projects": [
     {
       "name": "Deciphering translation of the ‘untranslated’ regions of messenger RNAs",
       "summary": "Marsden Fast-Start Grant funded by the Royal Society Te Apārangi. Principal Investigator, $360,000",
@@ -99,7 +99,7 @@
       "url": ""
     }
   ],
-  "service": [
+  "volunteer": [
     {
       "organization": "Carpentries",
       "position": "Instructor",
