@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Chun Shen Lim",
-    "label": "Scientist",
+    "profession": "Experimental and computational biologist",
     "image": "",
     "email": "chunshen.lim@otago.ac.nz",
     "phone": "",
-    "url": "https://compgenom.github.io/",
-    "summary": "Experimental and computational biologist",
+    "homepage": "https://compgenom.github.io/",
+    "summary": "",
     "location": {
       "address": "710 Cumberland Street",
-      "postalCode": "9054",
+      "postalCode": "9016",
       "city": "Dunedin",
       "countryCode": "NZ",
       "region": "Otago"
