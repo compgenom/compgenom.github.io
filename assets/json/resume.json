@@ -54,7 +54,7 @@
     {
       "name": "Cell and Molecular Biology",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Gene Expression", "Translation", "Splicing", "Reporter", "Amber Suppression", "Droplet Digital PCR"]
+      "keywords": ["Gene Expression", "Translation", "Splicing", "Reporter", "Amber Suppression", "Droplet Digital PCR", "Sequencing"]
     }
   ],
   "projects": [

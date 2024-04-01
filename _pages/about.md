@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.otago.ac.nz/biochemistry/research#computational-molecular-biology'>Department of Biochemistry, University of Otago</a>.
+subtitle: <a href='https://www.otago.ac.nz/biochemistry/research#computational-molecular-biology'>Department of Biochemistry, University of Otago</a>
 
 profile:
   align: right

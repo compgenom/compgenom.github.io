@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: watch the space for new publications.
+description: Watch the space for new publications
 nav: true
 nav_order: 5
 ---

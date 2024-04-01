@@ -2,27 +2,25 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Members of the research group
 nav: true
 nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: cslim.jpg
+    content:
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Chun Shen Lim</p>
+      <p>Group Leader</p>
+  - align: left
+    image: gabrielle.png
+    content:
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Gabrielle Chieng</p>
+      <p>PhD Candidate</p>
 ---
