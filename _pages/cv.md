@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: professional profile
+title: group leader's profile
 nav: true
 nav_order: 4
 toc:
