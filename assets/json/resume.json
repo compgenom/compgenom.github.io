@@ -6,7 +6,7 @@
     "email": "chunshen.lim@otago.ac.nz",
     "phone": "",
     "url": "https://compgenom.github.io/",
-    "summary": "An experimental and computational biologist",
+    "summary": "Experimental and computational biologist",
     "location": {
       "address": "710 Cumberland Street",
       "postalCode": "9054",
@@ -36,7 +36,7 @@
   "education": [
     {
       "institution": "University of Otago, Dunedin, New Zealand",
-      "location": "Dunedin, New Zealand",
+      "location": "Dunedin, NZ",
       "url": "https://www.otago.ac.nz/",
       "area": "Bioinformatics, Biochemistry",
       "studyType": "PhD",
@@ -49,12 +49,12 @@
     {
       "name": "Bioinformatics and Computational Biology",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Genomics", "Transcriptomics", "Molecular Evolution", "Machine Learning"]
+      "keywords": ["Data Mining", "Genomics", "Transcriptomics", "Molecular Evolution", "Machine Learning", "Simulations"]
     },
     {
-      "name": "Cell Biology",
+      "name": "Cell and Molecular Biology",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Reporter", "Amber Suppression", "Droplet Digital PCR"]
+      "keywords": ["Gene Expression", "Translation", "Splicing", "Reporter", "Amber Suppression", "Droplet Digital PCR"]
     }
   ],
   "projects": [
@@ -83,17 +83,16 @@
       "url": ""
     },
     {
-      "name": "NativeCLIP -- transcriptome-wide footprinting of protein-RNA binding sites using single-molecule sequencing of native RNAs",
+      "name": "NativeCLIP - transcriptome-wide footprinting of protein-RNA binding sites using single-molecule sequencing of native RNAs",
       "summary": "Otago Medical School Foundation Trust/School of Biomedical Sciences, University of Otago. Principal Investigator, $21,512",
       "highlights": ["Nanopore", "direct RNA sequencing"],
-      "startDate": "",
+      "startDate": "2023",
       "endDate": "2023",
       "url": ""
     },
     {
-      "name": "A proprietary project",
-      "summary": "Otago Innovation Limited-University of Otago (OIL-UoO) Commercialisation Grant. Co-Investigator, $76,542",
-      "highlights": ["Nanopore", "direct RNA sequencing"],
+      "name": "A commercialisation project",
+      "summary": "Otago Innovation Limited-University of Otago (OIL-UoO) Grant. Co-Investigator, $76,542",
       "startDate": "2022",
       "endDate": "2023",
       "url": ""
@@ -102,7 +101,7 @@
   "volunteer": [
     {
       "organization": "Carpentries",
-      "position": "Instructor",
+      "position": "Certified Instructor",
       "url": "",
       "startDate": "2021",
       "endDate": "",
@@ -113,7 +112,7 @@
       "organization": "Genome in a Bottle Consortium, National Institute of Standards and Technology",
       "position": "Curator",
       "url": "",
-      "startDate": "",
+      "startDate": "2018",
       "endDate": "2018",
       "summary": "",
       "highlights": ["SVCurator"]
