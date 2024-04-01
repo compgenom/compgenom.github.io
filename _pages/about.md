@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.otago.ac.nz/biochemistry/research#computational-molecular-biology'>Department of Biochemistry, University of Otago</a>.
 
 profile:
-  align: bottom
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
