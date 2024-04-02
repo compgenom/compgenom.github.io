@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lcscs12345
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - lcscs12345/riboss
+  - lcscs12345//HBV_splicing_paper_2020
+  - Gardner-BinfLab/PPI_Analysis_2022
+  - Gardner-BinfLab/TISIGNER-ReactJS
+  - Gardner-BinfLab/TIsigner_paper_2019
+  - Gardner-BinfLab/SoDoPE_paper_2020
+  - Gardner-BinfLab/Razor_paper_2021

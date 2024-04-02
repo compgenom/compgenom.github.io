@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Chun Shen Lim",
-    "profession": "Experimental and computational biologist",
+    "label": "Experimental and computational biologist",
     "image": "",
     "email": "chunshen.lim@otago.ac.nz",
     "phone": "",
-    "homepage": "https://compgenom.github.io/",
+    "url": "https://compgenom.github.io/",
     "summary": "",
     "location": {
       "address": "710 Cumberland Street",
@@ -80,7 +80,7 @@
       "highlights": ["Upstream Open Reading Frame", "Translation"],
       "startDate": "2022",
       "endDate": "2023",
-      "url": ""
+      "url": "https://www.otago.ac.nz/research/for-researchers-at-the-university-of-otago/funding-opportunities-for-university-of-otago-researchers"
     },
     {
       "name": "NativeCLIP - transcriptome-wide footprinting of protein-RNA binding sites using single-molecule sequencing of native RNAs",
@@ -95,14 +95,14 @@
       "summary": "Otago Innovation Limited-University of Otago (OIL-UoO) Grant. Co-Investigator, $76,542",
       "startDate": "2022",
       "endDate": "2023",
-      "url": ""
+      "url": "https://www.otago.ac.nz/otagoinnovation"
     }
   ],
   "volunteer": [
     {
       "organization": "Carpentries",
       "position": "Certified Instructor",
-      "url": "",
+      "url": "https://carpentries.org/instructors/",
       "startDate": "2021",
       "endDate": "",
       "summary": "",
@@ -111,7 +111,7 @@
     {
       "organization": "Genome in a Bottle Consortium, National Institute of Standards and Technology",
       "position": "Curator",
-      "url": "",
+      "url": "https://doi.org/10.1371/journal.pcbi.1007933",
       "startDate": "2018",
       "endDate": "2018",
       "summary": "",
