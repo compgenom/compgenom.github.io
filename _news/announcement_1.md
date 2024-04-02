@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Bikash on receiving his doctoral degree and starting an exciting career at EBI :tada:
+Congratulations to Bikash on receiving his doctoral degree and starting an exciting career at [EBI](https://www.ebi.ac.uk/people/person/bikash-bhandari/) :tada:
