@@ -36,6 +36,6 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <a href='https://bkb3.github.io/homepage/'>Bikash Bhandari</a>
-      <p>PhD Alum</p>
+      <p>PhD Alumnus</p>
       <p>Postdoctoral Research Follow (EMBL-EBI, Cambridge, UK)</p>
 ---
