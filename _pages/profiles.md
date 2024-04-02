@@ -21,13 +21,21 @@ profiles:
     content:
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Gabrielle Chieng</p>
+      <a href='https://www.linkedin.com/in/gabriellecsw/'>Gabrielle Chieng</a>
       <p>PhD Candidate</p>
   - align: left
     image: thomas.png
     content:
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Thomas Ware</p>
+      <a href='https://www.linkedin.com/in/thomas-ware-163161211/'>Thomas Ware</a>
       <p>PhD Candidate</p>
+  - align: left
+    image: bikash.png
+    content:
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <a href='https://bkb3.github.io/homepage/'>Bikash Bhandari</a>
+      <p>PhD Alum</p>
+      <p>Postdoctoral Research Follow (EMBL-EBI, Cambridge, UK)</p>
 ---
