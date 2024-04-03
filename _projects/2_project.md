@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What is the role of splicing in viruses?
+title: Splicing in viruses?
 description: alternative splicing, DNA virus
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+related_publications: true
 ---
 
 Hepatitis B virus (HBV) affect 296 million people worldwide. HBV is an unusual DNA virus. HBV produces the pregenomic RNA that is retro-transcribed into genomic DNA. We have experimentally characterised the spliced pregenomic RNAs of HBV and shown that these spliced RNAs are specific to the different genotypes of HBV {% cite lim2021quantitative %}. We also identify similar genotype-specific expression profiles in human liver and infected primary cells (501 public RNA-seq libraries). Interestingly, the sequences of novel splice RNAs found in the clinical samples matched with the DNA sequences of previously identified HBV quasispecies. The study sparks a new working hypothesis that alternative splicing is an avenue for the proliferation of HBV quasispecies, where the splice RNAs may be packaged and reverse transcribed, driving cancer progression.
