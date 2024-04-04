@@ -2,7 +2,7 @@
 layout: page
 title: Does splicing occur in viruses?
 description: alternative splicing, DNA virus
-img: assets/img/3.jpg
+img: assets/img/mgen-7-492-g003.jpg
 importance: 2
 category: work
 related_publications: true
