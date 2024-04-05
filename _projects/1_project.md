@@ -12,7 +12,7 @@ We are investigating a new mechanism that regulates gene expression through upst
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/gky282fig2.jpeg" title="Class I" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/gky282fig2.jpeg" title="Ribosome profiling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/gky282fig6.jpeg" title="Class I" class="img-fluid rounded z-depth-1" %}
