@@ -2,7 +2,7 @@
 layout: page
 title: How to boost gene expression?
 description: synthetic biology, transgene, solubility
-img: assets/img/journal.pcbi.1009461.g003.PNG
+img: assets/img/journal.pcbi.1009461.g003.png
 importance: 4
 category: work
 related_publications: true
@@ -12,7 +12,7 @@ Why are some genes highly expressed? Why are some proteins poorly soluble? We so
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/journal.pcbi.1009461.g003.PNG" title="Expression" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/journal.pcbi.1009461.g003.png" title="Expression" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/btaa578f3.jpeg" title="Solubility" class="img-fluid rounded z-depth-1" %}
