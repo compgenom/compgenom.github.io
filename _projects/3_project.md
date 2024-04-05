@@ -15,7 +15,7 @@ We have reconstructed the evolutionary history of intron presence/absence in fun
         {% include figure.liquid loading="eager" path="assets/img/msab094f1.jpeg" title="Intron gains and losses in fungi" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/msab094f1.jpeg" title="Evolution of the exon–intron gene structure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/msab094f4.jpeg" title="Evolution of the exon–intron gene structure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
