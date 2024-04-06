@@ -19,5 +19,5 @@ Why are some genes highly expressed? Why are some proteins poorly soluble? We so
     </div>
 </div>
 <div class="caption">
-    Accessibility around start codons are predictive of protein expression in E. coli (left). Highly flexible proteins tend to be more soluble (right). Based on this, we created a new index called Solubility-Weighted Index to predict solubility.
+    Accessibility around start codons are predictive of protein expression in <i>E. coli</i> (left). Highly flexible proteins tend to be more soluble (right). Based on this, we created a new index called Solubility-Weighted Index to predict solubility.
 </div>
