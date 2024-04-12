@@ -24,6 +24,20 @@ profiles:
       <p>Gabrielle Chieng</p>
       <p>PhD Candidate</p>
   - align: left
+    image: anh.png
+    content:
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Anh Thu Phan</p>
+      <p>PhD Candidate</p>
+  - align: left
+    image: alex.png
+    content:
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Alex Gibbon</p>
+      <p>PhD Candidate</p>
+  - align: left
     image: thomas.png
     content:
     image_circular: true # crops the image to make it circular
