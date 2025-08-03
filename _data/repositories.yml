@@ -3,10 +3,10 @@ github_users:
 
 github_repos:
   - compgenom/bioinfo_lessons
-  - lcscs12345/riboss
-  - lcscs12345/riboss_paper
   - lcscs12345/HBV_splicing_paper_2025
   - lcscs12345/HBV_splicing_paper_2020
+  - lcscs12345/riboss
+  - lcscs12345/riboss_paper
   - Brookesloci/fungi_intron_paper_2020
   - Gardner-BinfLab/PPI_Analysis_2022
   - Gardner-BinfLab/TISIGNER-ReactJS
